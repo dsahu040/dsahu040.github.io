@@ -34,7 +34,7 @@ class Contact extends Component {
               <ListItem>
                 <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton'}}>
                 <i className="fa fa-envelope-square" aria-hidden="true"/>
-                  <a href="mailto:dkumar7@gmu.edu">dkumar7@gmu.edu</a>
+                  <a href="mailto:dkumar7@gmu.edu"style={{color: 'black'}}>dkumar7@gmu.edu</a>
                 </ListItemContent>
               </ListItem>
             </List>

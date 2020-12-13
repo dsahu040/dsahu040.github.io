@@ -9,8 +9,6 @@ class Projects extends Component {
   }
 
   toggleCategories() {
-
-    if(this.state.activeTab === 0){
       return(
         <div className="projects-grid">
           {/* Project 1 */}
@@ -21,8 +19,6 @@ class Projects extends Component {
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored>Live Demo</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -37,8 +33,6 @@ class Projects extends Component {
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored>Live Demo</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -53,8 +47,6 @@ class Projects extends Component {
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored>Live Demo</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -62,27 +54,13 @@ class Projects extends Component {
           </Card>
         </div>
       )
-    } else if(this.state.activeTab === 1) {
-      return (
-        <div><h1>This is Python</h1></div>
-      )
-    } else if(this.state.activeTab === 2) {
-      return (
-        <div><h1>This is C</h1></div>
-      )
-    }
+
   }
 
 
   render() {
     return(
       <div>
-        <Tabs activeTab={this.state.activeTab} onChange={(tabId) => this.setState({ activeTab: tabId })} ripple>
-          <Tab>Java</Tab>
-          <Tab>Python</Tab>
-          <Tab>C</Tab>
-        </Tabs>
-
           <Grid>
             <Cell col={12}>
               <div className="content">{this.toggleCategories()}</div>
