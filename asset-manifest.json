@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.f9efc644.chunk.css",
-    "main.js": "/static/js/main.9b2ef464.chunk.js",
-    "main.js.map": "/static/js/main.9b2ef464.chunk.js.map",
+    "main.css": "/static/css/main.334a39a3.chunk.css",
+    "main.js": "/static/js/main.4e1034ff.chunk.js",
+    "main.js.map": "/static/js/main.4e1034ff.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e65824c4.js",
     "runtime-main.js.map": "/static/js/runtime-main.e65824c4.js.map",
     "static/css/2.2f2c82fc.chunk.css": "/static/css/2.2f2c82fc.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.087d9b42.chunk.js.map": "/static/js/3.087d9b42.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.2f2c82fc.chunk.css.map": "/static/css/2.2f2c82fc.chunk.css.map",
-    "static/css/main.f9efc644.chunk.css.map": "/static/css/main.f9efc644.chunk.css.map",
+    "static/css/main.334a39a3.chunk.css.map": "/static/css/main.334a39a3.chunk.css.map",
     "static/js/2.39674d25.chunk.js.LICENSE.txt": "/static/js/2.39674d25.chunk.js.LICENSE.txt",
     "static/media/Deep_FT_V1.e6bf655c.pdf": "/static/media/Deep_FT_V1.e6bf655c.pdf",
     "static/media/circle-cropped.ae586d65.png": "/static/media/circle-cropped.ae586d65.png",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.e65824c4.js",
     "static/css/2.2f2c82fc.chunk.css",
     "static/js/2.39674d25.chunk.js",
-    "static/css/main.f9efc644.chunk.css",
-    "static/js/main.9b2ef464.chunk.js"
+    "static/css/main.334a39a3.chunk.css",
+    "static/js/main.4e1034ff.chunk.js"
   ]
 }
