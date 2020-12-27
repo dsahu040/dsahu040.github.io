@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.84f0bd2d.chunk.css",
-    "main.js": "/static/js/main.22f578e2.chunk.js",
-    "main.js.map": "/static/js/main.22f578e2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d6e9ae75.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d6e9ae75.js.map",
+    "main.js": "/static/js/main.ec486b4a.chunk.js",
+    "main.js.map": "/static/js/main.ec486b4a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e65824c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e65824c4.js.map",
     "static/css/2.2f2c82fc.chunk.css": "/static/css/2.2f2c82fc.chunk.css",
-    "static/js/2.2d62fbfc.chunk.js": "/static/js/2.2d62fbfc.chunk.js",
-    "static/js/2.2d62fbfc.chunk.js.map": "/static/js/2.2d62fbfc.chunk.js.map",
-    "static/js/3.399590d0.chunk.js": "/static/js/3.399590d0.chunk.js",
-    "static/js/3.399590d0.chunk.js.map": "/static/js/3.399590d0.chunk.js.map",
+    "static/js/2.39674d25.chunk.js": "/static/js/2.39674d25.chunk.js",
+    "static/js/2.39674d25.chunk.js.map": "/static/js/2.39674d25.chunk.js.map",
+    "static/js/3.087d9b42.chunk.js": "/static/js/3.087d9b42.chunk.js",
+    "static/js/3.087d9b42.chunk.js.map": "/static/js/3.087d9b42.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.2f2c82fc.chunk.css.map": "/static/css/2.2f2c82fc.chunk.css.map",
     "static/css/main.84f0bd2d.chunk.css.map": "/static/css/main.84f0bd2d.chunk.css.map",
-    "static/js/2.2d62fbfc.chunk.js.LICENSE.txt": "/static/js/2.2d62fbfc.chunk.js.LICENSE.txt",
+    "static/js/2.39674d25.chunk.js.LICENSE.txt": "/static/js/2.39674d25.chunk.js.LICENSE.txt",
+    "static/media/Deep_FT_V1.e6bf655c.pdf": "/static/media/Deep_FT_V1.e6bf655c.pdf",
     "static/media/circle-cropped.ae586d65.png": "/static/media/circle-cropped.ae586d65.png",
     "static/media/graph.3a1d6190.jpg": "/static/media/graph.3a1d6190.jpg",
     "static/media/perceptron.97bd4895.jpg": "/static/media/perceptron.97bd4895.jpg",
@@ -22,10 +23,10 @@
     "static/media/sentiment-analysis.a938737f.jpg": "/static/media/sentiment-analysis.a938737f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6e9ae75.js",
+    "static/js/runtime-main.e65824c4.js",
     "static/css/2.2f2c82fc.chunk.css",
-    "static/js/2.2d62fbfc.chunk.js",
+    "static/js/2.39674d25.chunk.js",
     "static/css/main.84f0bd2d.chunk.css",
-    "static/js/main.22f578e2.chunk.js"
+    "static/js/main.ec486b4a.chunk.js"
   ]
 }
